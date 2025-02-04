@@ -1,6 +1,7 @@
 # Max Aura Predictor
 
 A Streamlit web application that predicts Max Verstappen's F1 race outcomes using machine learning.
+See it live [here](https://dududu33.streamlit.app/).
 (i'm actually a ferrari fan though)
 
 ## Features
